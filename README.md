@@ -1,5 +1,13 @@
+# h1 align="center">Hi 👋, I'm Prathmesh Khandare</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
+
+
 # 💫 About Me:
-i'm currenlty working on connect counsellor project , and some other projects of MERN STACK<br>i'm learning flask and machine learning<br>i 'm ready to collaborate on projects with nodejs backend
+- 🔨 I am currently working on the **ConnectCounsellor** project and several other exciting projects using the **MERN stack**.
+- 🛠️ My primary focus is on **backend development**, where I work on creating scalable APIs and server-side logic.
+- 👯 I’d be happy to collaborate on **MERN stack projects**, especially those with challenging backend aspects.
+- 🌱 I’m currently learning **Flask** for backend development and diving into **machine learning** to explore new possibilities.
+  
 
 
 ## 🌐 Socials:
