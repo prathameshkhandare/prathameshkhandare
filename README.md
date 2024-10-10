@@ -1,5 +1,5 @@
-# h1 align="center">Hi 👋, I'm Prathmesh Khandare</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+# <h1 align="center">Hi 👋, I'm Prathmesh Khandare</h1>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 
 # 💫 About Me:
