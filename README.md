@@ -3,11 +3,28 @@
 
 
 # 💫 About Me:
-🔨 I am currently working with *ConnectCounsellor*, where I contribute to developing impactful solutions using the MERN stack. Alongside this, I am involved in other 
-    exciting projects that push my technical boundaries.
-🛠️ My expertise lies in backend development, focusing on building scalable APIs, optimizing server-side logic, and ensuring seamless system integration.
-🚀 I am actively exploring *DevOps* practices and *Docker* to enhance my skills in containerization, deployment workflows, and infrastructure automation.
-👯 I’m always open to collaborating on* MERN stack projects*, particularly those with challenging backend or deployment requirements.
+
+# 🔨 Current Work:
+I am currently working with ConnectCounsellor, contributing to impactful solutions using the MERN stack. Additionally, I am involved in other exciting projects that challenge my technical boundaries.
+
+# 🛠️ Expertise:
+My core expertise lies in backend development, focusing on:
+
+Building scalable APIs
+Optimizing server-side logic
+Ensuring seamless system integration
+
+#🚀 Exploration:
+I am actively learning and implementing:
+DevOps practices
+Docker for containerization and deployment workflows
+Infrastructure automation
+
+# 👯 Collaboration:
+I am always open to collaborating on MERN stack projects, particularly those with:
+
+Challenging backend requirements
+Complex deployment workflows
   
 
 
