@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJhZmYxM2dwbWF4MGpyY2J3MThzcTZidDhsNWs3NGh5Y2k2NHI2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="PHOTO" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJhZmYxM2dwbWF4MGpyY2J3MThzcTZidDhsNWs3NGh5Y2k2NHI2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="PHOTO" height="300px" />
   <br>
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&duration=5000&pause=700&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=435&lines=Hello%21+I'm+Prathamesh+Khandare%3B+Aspiring+Software+Engineer%3B+Backend+Developer%3B+GEN+AI+enthusiast" alt="Typing SVG"/>
