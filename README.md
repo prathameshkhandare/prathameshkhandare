@@ -44,9 +44,9 @@
 | Project | Description | Tech Stack |
 |---------|------------|------------|
 | [Connect Counsellor](www.connectcounsellor.com) | Full stack application for Mental health issues | MongoDB, React, Node, Express |
-| [DesignDeck](www.scaleindia.org.in) | Internship Management system | React.js, Node.js, MongoDB, Express,Cloudinary |
+| [InternHUb](www.scaleindia.org.in) | Internship Management system | React.js, Node.js, MongoDB, Express,Cloudinary |
 
-### AI/ML
+ ### AI/ML
 | Project | Description | Tech Stack |
 |---------|------------|------------|
 | [Skillora]() | AI powered personalized learning platform | Gemini,YouTube Data API v3 , MERN |
