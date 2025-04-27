@@ -46,8 +46,8 @@
 ### Full Stack Development
 | Project | Description | Tech Stack |
 |---------|------------|------------|
-| [Connect Counsellor](www.connectcounsellor.com) | Full stack application for Mental health issues | MongoDB, React, Node, Express |
-| [InternHUb](www.scaleindia.org.in) | Internship Management system | React.js, Node.js, MongoDB, Express,Cloudinary |
+| [Connect Counsellor](https://www.connectcounsellor.com)www.connectcounsellor.com) | Full stack application for Mental health issues | MongoDB, React, Node, Express |
+| [InternHub](https://www.scaleindia.org.in) | Internship Management system | React.js, Node.js, MongoDB, Express,Cloudinary |
 
  ### AI/ML
 | Project | Description | Tech Stack |
