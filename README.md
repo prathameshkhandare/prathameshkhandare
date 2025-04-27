@@ -34,9 +34,9 @@
 
 ## 🌐 CONNECT WITH ME HERE:
 <p align="left">
-<!-- <a href="https://jahnvisahni.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="jahnvisahni31" /></a> -->
+
 <a href="https://www.linkedin.com/in/prathmesh-khandare-24a116281/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/prathmesh-khandare-24a116281/"  /></a>
-<!-- <a href="https://medium.com/@jahnvisahni98" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@jahnvisahni98"  /></a> -->
+
 <a href="https://leetcode.com/u/prathmesh1551" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="prathmesh1551" /></a>
 <a href="https://www.geeksforgeeks.org/user/prathameshknn6z/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="prathameshknn6z" /></a>
 <br>
@@ -53,10 +53,7 @@
 | Project | Description | Tech Stack |
 |---------|------------|------------|
 | [Skillora]() | AI powered personalized learning platform | Gemini,YouTube Data API v3 , MERN |
-<!-- | [Airport Analysis](https://github.com/jahnvisahni31/Airport_analysis) | Dashboard analyzing airport operations | Power BI |
-| [Bikesharing Prediction](https://github.com/jahnvisahni31/predict_bike_sharing_with_autogluon) | ML model for bike-sharing demand prediction | AWS SageMaker, AutoGluon |
-| [Sportify](https://github.com/jahnvisahni31/Sports-Popularity-Forecast) | Sports popularity trend forecasting | Time Series Prediction |
-| [Imagify](https://github.com/jahnvisahni31/Imagify) | PyTorch-based image classifier | PyTorch | -->
+
 
 
 ## SKILLS:
@@ -88,7 +85,7 @@
   <a href="https://github.com/prathameshkhandare/github-readme-stats"><img alt=" Top Languages" src="https://camo.githubusercontent.com/35855d13c135cc6a7d802f7617f7e7206172c28619615fbd9c9c7e3e336d66c4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7072617468616d6573686b68616e64617265267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374" /></a>
   <br/>
 <a href="https://github.com/prathameshkhandare">
-  <!-- <img alt="prathameshkhandare's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisahni31&theme=react-dark" /> -->
+
 </a>
 </div>
 
