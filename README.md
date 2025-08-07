@@ -71,9 +71,6 @@
 
 <br>
 
-
-## Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/prathmesh1551?theme=dark&font=baloo&ext=activity)
 ## Github stats:
 <div align="center">
   <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
